@@ -1,3 +1,4 @@
+
 Hi there! I’m Nana Yaw Boateng,a passionate Data Science & Engineering Student based in East Hartford, CT. I'm currently pursuing a Bachelor of Science 
 in Data Science & Engineering with a Minor in Statistics at University of Connecticut.
 - 👀 I’m interested in ...
@@ -6,7 +7,7 @@ in Data Science & Engineering with a Minor in Statistics at University of Connec
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanayboateng&theme=dark&show_icons=true)
 <!---
 nanayboateng/nanayboateng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
