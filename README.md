@@ -13,6 +13,9 @@ in Data Science & Engineering with a Minor in Statistics at University of Connec
 - **Languages:** Python, SQL, Java, HTML
 - **Databases:** SQL
 - **libraries:** Pandas, NumPy, PyTorch
+
+## 🌐 Let's Connect
+
   
 <!---
 nanayboateng/nanayboateng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
