@@ -10,9 +10,9 @@ in Data Science & Engineering with a Minor in Statistics at University of Connec
    * IBM Data Science Certification in Progress
 
 ## 💻 Technical Skills
-- **Languages:** Python, SQL, Java, HTML
+- **Languages:** Python(Pandas, NumPy, Scikit-Learn), SQL, Java, HTML
 - **Databases:** SQL
-- **libraries:** Pandas, NumPy, PyTorch
+- **Notebooks:**
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nana-yaw-boateng-866699253/)
