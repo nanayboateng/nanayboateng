@@ -12,7 +12,7 @@ in Data Science & Engineering with a Minor in Statistics at University of Connec
 ## 💻 Technical Skills
 - **Languages:** Python(Pandas, NumPy, Scikit-Learn), SQL, Java, HTML
 - **Databases:** SQL
-- **Notebooks:**
+- **Notebooks:** VS Code, Jupyter
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nana-yaw-boateng-866699253/)
