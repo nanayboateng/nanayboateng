@@ -15,6 +15,7 @@ in Data Science & Engineering with a Minor in Statistics at University of Connec
 - **libraries:** Pandas, NumPy, PyTorch
 
 ## 🌐 Let's Connect
+- [linkedln]
 
   
 <!---
