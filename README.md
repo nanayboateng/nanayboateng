@@ -15,7 +15,7 @@ in Data Science & Engineering with a Minor in Statistics at University of Connec
 - **Notebooks:** VS Code, Jupyter
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nana-yaw-boateng-866699253/) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:boatengnyk240@gmail.com) [![Devpost](https://img.shields.io/badge/Devpost-Profile-brightgreen)](https://devpost.com/nyk20007?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nana-yaw-boateng-866699253/) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:boatengnyk240@gmail.com) [![Devpost](https://img.shields.io/badge/Devpost-Profile-brightgreen)](https://devpost.com/nyk20007?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)]
 
   
 <!---
