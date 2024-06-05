@@ -15,7 +15,7 @@ in Data Science & Engineering with a Minor in Statistics at University of Connec
 - **libraries:** Pandas, NumPy, PyTorch
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nana-yaw-boateng-866699253/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/nana-yaw-boateng-866699253)
 
   
 <!---
