@@ -7,12 +7,10 @@ in Data Science & Engineering with a Minor in Statistics at University of Connec
 - University of Connecticut
    * Bachelor of Science in Data Science & Engineering, Minor in Statistics
    * Expected Graduation: May 2026
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+   * IBM Data Science Certification in Progress
+
+## Technical Skills
+- Languages: Python, SQL, Java
 <!---
 nanayboateng/nanayboateng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
