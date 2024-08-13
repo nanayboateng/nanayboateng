@@ -9,7 +9,7 @@ I am a passionate Data Science & Engineering Student based in Connecticut, US.
    * IBM Data Science Certification in Progress
 
 ## 💻 Technical Skills
-- **Languages:** Python(Pandas, NumPy, Mat), R, SQL, Java
+- **Languages:** Python(Pandas, NumPy, Matplotlib), R, SQL, Java
 - **Databases:** SQL
 - **Notebooks:** VS Code, Jupyter,
 
