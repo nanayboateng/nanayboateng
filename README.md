@@ -1,21 +1,22 @@
 
 # 👋 Hi, I'm Nana Yaw Boateng!
-I am a passionate Data Science & Engineering Student based in Connecticut, US. 
+Aspiring Data Scientist (Student)
 
-## 📚 Education
-- **University of Connecticut**
-   * Bachelor of Science in Data Science & Engineering, Minor in Statistics
+## About Me
+   * Undergraduate Data Science & Engineering Student, with a Minor in Statistics @ University of Connecticut.
+   * Committed to leveraging data-driven insights to develop solutions that address real-world challenges, combining a strong analytical mindset with a passion for innovation.
    * Expected Graduation: May 2026
+   * During my free time I am experimenting with different Machine Learing and Statistical models to better tailor them for my personal project.
+   * I love Soocer, my favorite team is Barcelona and my favorite player of all time is Lionel Messi.
    * IBM Data Science Certification in Progress
 
 ## 💻 Technical Skills
 - **Languages:** Python(Pandas, NumPy, Matplotlib), R, SQL, Java
 - **Databases:** SQL
-- **Notebooks:** VS Code, Jupyter,
+- **Notebooks:** VS Code, Jupyter
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nana-yaw-boateng-866699253/) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:boatengnyk240@gmail.com) [![Devpost](https://img.shields.io/badge/Devpost-Profile-brightgreen)](https://devpost.com/nyk20007?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)]
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nana-yaw-boateng-866699253/) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:boatengnyk240@gmail.com) [![Devpost](https://img.shields.io/badge/Devpost-Profile-brightgreen)](https://devpost.com/nyk20007?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
   
 <!---
 nanayboateng/nanayboateng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
