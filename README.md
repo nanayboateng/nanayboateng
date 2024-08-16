@@ -7,7 +7,7 @@ Aspiring Data Scientist (Student)
    * Committed to leveraging data-driven insights to develop solutions that address real-world challenges, combining a strong analytical mindset with a passion for innovation.
    * Expected Graduation: May 2026
    * During my free time I am experimenting with different Machine Learing and Statistical models to better tailor them for my personal project.
-   * I love Soocer, my favorite team is Barcelona and my favorite player of all time is Lionel Messi.
+   * I love Soocer, my favorite team is FC Barcelona and my favorite player of all time is Lionel Messi.
    * IBM Data Science Certification in Progress.
 
 ## 💻 Technical Skills
