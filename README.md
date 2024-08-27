@@ -16,7 +16,7 @@ Aspiring Data Scientist (Student)
 - **Tools** VS Code, Jupyter, PyCharm, Git
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nana-yaw-boateng-866699253/) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:boatengnyk240@gmail.com) [![Devpost](https://img.shields.io/badge/Devpost-Profile-brightgreen)](https://devpost.com/nyk20007?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nana-yaw-boateng-866699253/) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:boatengnyk240@gmail.com)
   
 <!---
 nanayboateng/nanayboateng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
