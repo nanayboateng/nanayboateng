@@ -10,7 +10,7 @@
    * IBM Data Science Certification in Progress.
 
 ## 💻 Technical Skills
-- **Languages:** Python, R, SQL, Java
+- **Languages:** Python, R, SQL, Java, HTML, CSS
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Tools** VS Code, Jupyter, PyCharm, Github
 
