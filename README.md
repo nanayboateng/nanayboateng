@@ -1,6 +1,5 @@
 
 # 👋 Hi, I'm Nana Yaw Boateng!
-Aspiring Data Scientist (Student)
 
 ## About Me
    * Undergraduate Data Science & Engineering Student, with a Minor in Statistics @ University of Connecticut.
