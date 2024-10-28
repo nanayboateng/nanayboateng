@@ -12,7 +12,7 @@
 ## 💻 Technical Skills
 - **Languages:** Python, R, SQL, Java, HTML, CSS
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- **Tools** VS Code, Jupyter, PyCharm, Github
+- **Tools** VS Code, Jupyter, PyCharm, Git, Github
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nana-yaw-boateng-866699253/) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:boatengnyk240@gmail.com)
