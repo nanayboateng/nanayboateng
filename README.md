@@ -7,10 +7,10 @@
    * Expected Graduation: May 2026
    * During my free time I am experimenting with different Data Visualizations and Statistical models to better tailor them for my personal project.
    * I love Soocer, my favorite team is FC Barcelona and my favorite player of all time is Lionel Messi(The GOAT).
-   * IBM Data Science Certification in Progress.
 
 ## 💻 Technical Skills
 - **Languages:** Python, R, SQL, Java, HTML, CSS
+- **Data Visualization:** Power BI, Tableau, Excel (Advanced)
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Tools** VS Code, Jupyter, PyCharm, Git, Github
 
